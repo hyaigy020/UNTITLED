@@ -14,7 +14,7 @@ description: 一个被不定时打扫的垃圾堆。
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
+avatar: 
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://raw.githubusercontent.com/hyaigy020/UNTITLED/master/images/5306c1d3gw1ezhoqk6trsj20go0ku0ux.png
