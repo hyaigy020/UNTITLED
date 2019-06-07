@@ -4,14 +4,16 @@ title: 关于
 permalink: /about/
 ---
 
-你以为点【关于】就能找到我的信息了吗？嘻嘻
-	
-<img src="https://raw.githubusercontent.com/hyaigy020/UNTITLED/master/images/%E5%88%80%E5%88%80.jpg" alt="Sample"  width="80" height="200">
+<img src="https://raw.githubusercontent.com/hyaigy020/UNTITLED/master/images/%E5%88%80%E5%88%80.jpg" alt="Sample"  width="240" height="600">
 
-  <div class="row">
-        <div class="div1">123123123123123</div>
-        <div class="div2">1232131</div>
+介个系刀刀，刀刀就系我
+做一把刀小孩于无形的刀子精
+我就系我，快乐的智慧果
 
-    <div class="left">left</div>
-    <div class="right">right</div>
-</div>
+***
+<img src="https://raw.githubusercontent.com/hyaigy020/UNTITLED/master/images/%E8%9B%87%E5%88%80.jpeg" alt="Sample"  width="500" height="500">
+
+介个系太太画的我和太太
+在我把它贴床头以后阿伟天天暴毙
+没别的意思
+就放出来让大家看看
