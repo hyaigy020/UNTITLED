@@ -7,12 +7,11 @@ permalink: /about/
 你以为点【关于】就能找到我的信息了吗？嘻嘻
 	
 <img src="https://raw.githubusercontent.com/hyaigy020/UNTITLED/master/images/%E5%88%80%E5%88%80.jpg" alt="Sample"  width="80" height="200">
-    </style>
-    
-    <div class="row">
+
+  <div class="row">
         <div class="div1">123123123123123</div>
         <div class="div2">1232131</div>
-    </div>">
+
     <div class="left">left</div>
     <div class="right">right</div>
 </div>
