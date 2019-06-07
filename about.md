@@ -4,4 +4,7 @@ title: 关于
 permalink: /about/
 ---
 
-这是一个关于页面，请编辑about.md以介绍你的博客。
+你以为点【关于】就能找到我的信息了吗？嘻嘻
+</p>	
+<img src="https://raw.githubusercontent.com/hyaigy020/UNTITLED/master/images/%E5%88%80%E5%88%80.jpg" alt="Sample"  width="80" height="200">
+</p>
